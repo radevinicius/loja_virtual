@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "426651720987",
+    "project_id": "lojavirtual-cfa91",
+    "storage_bucket": "lojavirtual-cfa91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426651720987:android:bbd2f5e8bdc04a824887be",
+        "android_client_info": {
+          "package_name": "br.com.rade.loja_virtual_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426651720987-m6vpt5dvfik2tmi3us96j4bikc7ko587.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdKO2mr0D8dgOGWJkLdbO-imtFX1u9i1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426651720987-m6vpt5dvfik2tmi3us96j4bikc7ko587.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
